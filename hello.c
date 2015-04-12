@@ -7,5 +7,6 @@
 
 int main() {
     printf("Hello world.\n.");
+    printf("Hello susumu.\n");
     return 0;
 }
