@@ -1,4 +1,10 @@
-all:
-	hello
+all:	hello
 
-hello:	hello.c
+hello:	hello.o
+
+hello.o:	hello.c
+
+clean:
+	rm -f *~ *.o hello
+
+CC = cc
