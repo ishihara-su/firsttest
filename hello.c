@@ -8,5 +8,7 @@
 int main() {
     printf("Hello world.\n.");
     printf("Hello susumu.\n");
+
+    printf("Added new branch.\n");
     return 0;
 }
