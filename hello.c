@@ -15,5 +15,7 @@ int main() {
 
     printf("Hello Mario.\n");
     printf("Hello Vince.\n");
+
+    printf("Hello Elephant.\n");
     return 0;
 }
