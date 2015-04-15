@@ -12,5 +12,7 @@ int main() {
     printf("Added new branch.\n");
     printf("Hello universe.\n");
     printf("Hello moon.\n");
+
+    printf("Hello Mario.\n");
     return 0;
 }
