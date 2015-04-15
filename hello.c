@@ -6,11 +6,9 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello world.\n");
+    printf("Hello world.\n.");
     printf("Hello susumu.\n");
 
     printf("Added new branch.\n");
-    printf("Hello universe.\n");
-    printf("Hello moon.\n");
     return 0;
 }
